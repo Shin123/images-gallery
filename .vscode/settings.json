@@ -13,7 +13,8 @@
     ],
     "python.linting.pylintEnabled": true,
     "python.formatting.provider": "black",
-    "[python]": {
-        "editor.formatOnSave": true
-    }
+    // "[python]": {
+    //     "editor.formatOnSave": true
+    // },
+    
 }
